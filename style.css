@@ -1,0 +1,35 @@
+body {
+    background-color: darkturquoise;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: crimson;
+    background-color: aqua;
+}
+
+#show_sketch {
+    float: right;
+}
+
+#sketch_name {
+    color: crimson;
+}
+
+#score {
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+#time {
+    margin-right: 20px;
+    font-size: 30px;
+    float: right;
+}
+
+p,
+span {
+    padding-top: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
